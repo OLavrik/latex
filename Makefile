@@ -1,1 +1,2 @@
-run: pdftex main.tex
+run: 
+	pdftex main.tex

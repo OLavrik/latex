@@ -7,6 +7,14 @@ There are several settings that you can read about in the help for pdflatex:
 ```
 pdflatex --help
 ```
+## Установите пакеты:
+```
+\usepackage[utf8]{inputenc}
+\usepackage[english,russian]{babel}
+\usepackage{cmap}
+\usepackage{geometry}
+```
+
 ## Поменяйте нужную информацию 
 ```
 nano main.tex
