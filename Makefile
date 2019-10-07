@@ -1,2 +1,1 @@
-#!/bin/sh
-pdftex main.tex
+run: pdftex main.tex
